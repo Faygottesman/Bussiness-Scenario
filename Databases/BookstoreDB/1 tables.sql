@@ -11,7 +11,7 @@ GoodCondition,
 TotalBalance,
 PreviousPaid*/
 
-use BookstoreDB
+use LibraryDB
 go
 drop table if exists Book
 go

@@ -1,4 +1,4 @@
-use BookstoreDB
+use LibraryDB
 go
 delete Book
 

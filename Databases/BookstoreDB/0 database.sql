@@ -1,8 +1,8 @@
 use master
 go
-drop database if exists BookstoreDB
+drop database if exists LibraryDB
 go
-create database BookstoreDB 
+create database LibraryDB 
 go
-use BookstoreDB
+use LibraryDB
 go
